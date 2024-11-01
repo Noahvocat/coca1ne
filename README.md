@@ -1,4 +1,4 @@
-<img src="https://github.com/nvct-website/coca1ne/blob/2.x/Frame%20125.png?raw=true" width="64" />
+<img src="https://github.com/noahvocat/coca1ne/blob/2.x/Frame%20125.png?raw=true" width="64" />
 
 # coca1ne
 
