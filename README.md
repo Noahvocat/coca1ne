@@ -1,4 +1,4 @@
-<img src="[https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e](https://github.com/nvct-website/coca1ne/blob/2.x/Frame%20125.png?raw=true)" width="64" />
+<img src="https://github.com/nvct-website/coca1ne/blob/2.x/Frame%20125.png?raw=true" width="64" />
 
 # coca1ne
 
