@@ -1,6 +1,4 @@
-<img src="https://github.com/noahvocat/coca1ne/blob/2.x/Frame%20125.png?raw=true" width="64" />
-
-# coca1ne
+![Group 115](https://github.com/user-attachments/assets/f0de340f-d7e0-43af-b5d1-d9f650c3109e)
 
 A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.
 
